@@ -1,1 +1,2 @@
 print("blat")
+print("suka")
